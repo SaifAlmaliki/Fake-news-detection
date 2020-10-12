@@ -1,6 +1,8 @@
-Build a model to accurately classify a piece of news as REAL or FAKE.
+This model will accurately classify a piece of news as REAL or FAKE.
 
 Using sklearn, we build a TfidfVectorizer on our dataset. Then, we initialize a PassiveAggressive Classifier and fit the model. In the end, the accuracy score and the confusion matrix tell us how well our model fares.
+
+
 
 What is a TfidfVectorizer? 
 TF (Term Frequency): The number of times a word appears in a document is its Term Frequency. A higher value means a term appears more often than others, and so, the document is a good match when the term is part of the search terms.
