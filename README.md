@@ -1,4 +1,4 @@
-#Fake News Detection
+# Fake News Detection
 
 This model will accurately classify a piece of news as REAL or FAKE.
 
